@@ -1,8 +1,6 @@
 # MarsRover
 A simple solution to Mars Rover Problem using C#.NET Core
 
-Mars Rover
-
 Part 1:
 
 A squad of robotic rovers are to be landed by NASA on a plateau on Mars. This plateau, which is
