@@ -11,7 +11,6 @@ namespace MarsRover.Domain.Classes
 
         public Rover()
         {
-            //this.RoverId = "rover" + Guid.NewGuid().ToString("N").Substring(0, 5);
         }
 
         public Rover(RoverPosition position)

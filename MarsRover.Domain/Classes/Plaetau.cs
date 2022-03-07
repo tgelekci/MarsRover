@@ -11,7 +11,6 @@ namespace MarsRover.Domain.Classes
 
         public Plaetau()
         {
-            //this.PlaetauId = "plaetau" + Guid.NewGuid().ToString("N").Substring(0, 5);
         }
 
         public Plaetau(int width, int height)
